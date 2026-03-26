@@ -1,7 +1,7 @@
 -- ============================================================
 -- Fichier : GNE.sql
 -- Description : Création des tables pour la gestion des notes
--- Auteur : gaoussou ocul
+-- Auteur : gaoussou coulibaly
 -- Date : 2026-03-24
 -- ============================================================
 
